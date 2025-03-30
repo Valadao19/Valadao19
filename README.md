@@ -34,3 +34,9 @@ Se quiser saber mais sobre mim e meu trabalho, me conecte no LinkedIn:
             src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white"
         />
     </p>
+</a> 
+    <a href="https://github.com/Valadao19?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Valadao19?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
