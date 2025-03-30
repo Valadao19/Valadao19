@@ -6,7 +6,7 @@ Me chamo Eduardo Valadão Maciel, tenho 18 anos e sou de São Paulo. Sempre fui 
 Após concluir o ensino médio, fiz um curso técnico em informática para aprofundar meus conhecimentos na área. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas em Mogi das Cruzes na UMC. Tenho experiência com Python e estou sempre buscando aprender mais sobre tecnologia, resolver problemas e criar projetos úteis. 🚀
 
 Se quiser saber mais sobre mim e meu trabalho, me conecte no LinkedIn:
-    <p align="left">
+<p align="left">
     <!-- Botão de LinkedIn -->
     <a href="https://www.linkedin.com/in/eduardo-valad%C3%A3o-a775992b8" target="_blank">
         <img 
@@ -16,7 +16,7 @@ Se quiser saber mais sobre mim e meu trabalho, me conecte no LinkedIn:
         />
     </a>
 </p>
-<p align="left">
+<p 
     <!-- Botão de E-mail -->
     <a href="mailto:eduardo.mmaacciieell@gmail.com">
         <img 
@@ -25,7 +25,7 @@ Se quiser saber mais sobre mim e meu trabalho, me conecte no LinkedIn:
             src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <p align="left">
+    <p 
     <!-- Botão de Telefone -->
     <a href="https://api.whatsapp.com/send?phone=5511980967899" target="_blank">
         <img 
