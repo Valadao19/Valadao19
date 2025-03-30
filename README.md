@@ -38,7 +38,7 @@ Se quiser saber mais sobre mim e meu trabalho, me conecte no LinkedIn:
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Valadao19?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Valadao19?color=yellow&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
        />
     </a>
     <a href="https://github.com/Valadao19?tab=followers">
