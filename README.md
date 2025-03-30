@@ -15,8 +15,8 @@ Se quiser saber mais sobre mim e meu trabalho, me conecte no LinkedIn:
             src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-</p>
-<p 
+</a>
+<a
     <!-- Botão de E-mail -->
     <a href="mailto:eduardo.mmaacciieell@gmail.com">
         <img 
@@ -25,7 +25,7 @@ Se quiser saber mais sobre mim e meu trabalho, me conecte no LinkedIn:
             src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <p 
+    <a
     <!-- Botão de Telefone -->
     <a href="https://api.whatsapp.com/send?phone=5511980967899" target="_blank">
         <img 
@@ -33,4 +33,4 @@ Se quiser saber mais sobre mim e meu trabalho, me conecte no LinkedIn:
             title="Me chame no WhatsApp" 
             src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white"
         />
-    </a>
+    </p>
