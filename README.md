@@ -9,23 +9,18 @@ Após concluir o ensino médio, fiz um curso técnico em informática para aprof
 Tenho experiência com Python e estou sempre buscando aprender mais sobre tecnologia, resolver problemas e criar projetos úteis. 🚀
 
 Se quiser saber mais sobre meu trabalho, me conecte no LinkedIn:"[Eduardo Valadão](https://www.linkedin.com/in/eduardo-valad%C3%A3o-a775992b8)".
-
 <p align="left">
-    <!-- Botão de E-mail -->
+    <!-- Adicionando E-mail -->
     <a href="mailto:eduardo.mmaacciieell@gmail.com">
         <img 
             alt="E-mail" 
-            title="Enviar e-mail" 
-            src="https://img.shields.io/badge/E-mail-blue?style=for-the-badge&logo=gmail&logoColor=white"
+            title="Envie-me um e-mail" 
+            src="https://img.shields.io/badge/Email-eduardo.mmaacciieell@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    
-    <!-- Botão de WhatsApp -->
-    <a href="https://api.whatsapp.com/send?phone=5511980967899" target="_blank">
+    <!-- Adicionando Número -->
+    <a href="tel:+55 11 98096-7899">
         <img 
-            alt="WhatsApp" 
-            title="Conversar no WhatsApp" 
-            src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white"
-        />
-    </a>
-</p>
+            alt="Telefone" 
+            title="Me ligue ou envie mensagem" 
+            src="https://img.shields.io/badge/Telefone-%28+55%29%2011%20 980967899-green?style=for-the-badge&logo=phone&logoColor=white"
