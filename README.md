@@ -25,7 +25,7 @@ Se quiser saber mais sobre meu trabalho, me conecte no LinkedIn:
         <img 
             alt="Email" 
             title="Envie-me um e-mail" 
-            src="https://img.shields.io/badge/E-mail-red?style=for-the-badge&logo=gmail&logoColor=white"
+            src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
     <p align="left">
