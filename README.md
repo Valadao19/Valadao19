@@ -15,16 +15,16 @@ Se quiser saber mais sobre meu trabalho, me conecte no LinkedIn:"[Eduardo Valad√
     <a href="mailto:eduardo.mmaacciieell@gmail.com">
         <img 
             alt="E-mail" 
-            title="Envie-me um e-mail" 
-            src="https://img.shields.io/badge/E-mail-red?style=for-the-badge&logo=gmail&logoColor=white"
+            title="Enviar e-mail" 
+            src="https://img.shields.io/badge/E-mail-blue?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
     
     <!-- Bot√£o de WhatsApp -->
-    <a href="https://wa.me/5511980967899" target="_blank">
+    <a href="https://api.whatsapp.com/send?phone=5511980967899" target="_blank">
         <img 
             alt="WhatsApp" 
-            title="Me chame no WhatsApp" 
+            title="Conversar no WhatsApp" 
             src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white"
         />
     </a>
