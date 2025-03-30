@@ -13,12 +13,12 @@ Se quiser saber mais sobre meu trabalho, me conecte no LinkedIn:"[Eduardo Valad√
     <!-- Bot√£o de E-mail -->
     <a href="mailto:eduardo.mmaacciieell@gmail.com">
         <img 
-            alt="E-mail" 
+            alt="Email" 
             title="Envie-me um e-mail" 
             src="https://img.shields.io/badge/E-mail-red?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <p align="left">
+    <p align="center">
     <!-- Bot√£o de Telefone -->
     <a href="https://api.whatsapp.com/send?phone=5511980967899" target="_blank">
         <img 
@@ -27,7 +27,7 @@ Se quiser saber mais sobre meu trabalho, me conecte no LinkedIn:"[Eduardo Valad√
             src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white"
         />
     </a>
-    <p align="left">
+    <p align="rigth">
     <!-- Bot√£o de LinkedIn -->
     <a href="https://www.linkedin.com/in/eduardo-valad%C3%A3o-a775992b8" target="_blank">
         <img 
