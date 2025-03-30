@@ -18,7 +18,7 @@ Se quiser saber mais sobre meu trabalho, me conecte no LinkedIn:"[Eduardo ValadÃ
             src="https://img.shields.io/badge/E-mail-red?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <p align="center">
+    <p align="left">
     <!-- BotÃ£o de Telefone -->
     <a href="https://api.whatsapp.com/send?phone=5511980967899" target="_blank">
         <img 
@@ -27,7 +27,7 @@ Se quiser saber mais sobre meu trabalho, me conecte no LinkedIn:"[Eduardo ValadÃ
             src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white"
         />
     </a>
-    <p align="rigth">
+    <p align="left">
     <!-- BotÃ£o de LinkedIn -->
     <a href="https://www.linkedin.com/in/eduardo-valad%C3%A3o-a775992b8" target="_blank">
         <img 
