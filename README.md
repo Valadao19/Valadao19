@@ -23,4 +23,4 @@ Se quiser saber mais sobre meu trabalho, me conecte no LinkedIn:"[Eduardo Valad√
         <img 
             alt="Telefone" 
             title="Me ligue ou envie mensagem" 
-            src="https://img.shields.io/badge/Telefone-%28+55%29%2011%20 980967899-green?style=for-the-badge&logo=phone&logoColor=white"
+            src="https://img.shields.io/badge/Telefone-%28+55%29%2011%20980967899-green?style=for-the-badge&logo=phone&logoColor=white"
